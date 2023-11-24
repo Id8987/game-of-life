@@ -31,6 +31,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/game-of-life/",
               "budgets": [
                 {
                   "type": "initial",
