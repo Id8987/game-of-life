@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build:prod": "ng build --configuration production --base-href https://id8987.github.io/game-of-life/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
